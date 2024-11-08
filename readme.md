@@ -18,6 +18,13 @@ By modifying specific parameters in the spreadsheet, users can adjust the propel
 
 Note: Some parameter combinations may result in geometries that FreeCAD cannot resolve. There are no specific rules for which values work best, so you may need to experiment with different settings to achieve a valid model.
 
+## Examples
+![Alt text](example_1.png)
+![Alt text](example_2.png)
+![Alt text](example_3.png)
+![Alt text](example_4.png)
+
+
 ## Requirements
 
 - **FreeCAD** (v0.19 or later recommended)
